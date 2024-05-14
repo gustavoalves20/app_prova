@@ -1,16 +1,17 @@
-# segunda_prova
+Nome do projeto: Segunda Prova
 
-A new Flutter project.
+Aplicativo de Ecommerce de hardware, linha gamer, eletrônicos, smart home e smartphones.
+----------
+Descrição
 
-## Getting Started
+Aplicativo desenvolvido para a disciplina de Programação Para Dispositivos Móveis
+na Faculdade Católica da Paraíba. O aplicativo é baseado no Kabum! onde mostra opções de
+vendas de hardware, preriféricos, componentes, entre outros. 
+----------
+Instalação
 
-This project is a starting point for a Flutter application.
+Siga os passos para instalação
 
-A few resources to get you started if this is your first Flutter project:
+- Baixe o Flutter e o Dart
+- Baixe o VSCode ou Android Studio
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
