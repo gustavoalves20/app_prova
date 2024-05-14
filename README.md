@@ -15,5 +15,5 @@ Siga os passos para instalação
 - Baixe o Flutter e o Dart
 - Baixe o VSCode ou Android Studio
 ----------
-Clone o repositório
+Clone o repositório:
 git clone https://github.com/gustavoalves20/app_prova
